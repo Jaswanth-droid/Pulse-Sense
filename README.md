@@ -2,6 +2,8 @@
 
 **Unmasking hidden health signals through natural language.**
 
+[Live Demo on Vercel](https://pulsesense.vercel.app)
+
 PULSE SENSE is a futuristic health monitoring dashboard that uses advanced AI to scan for "weak" signals in your natural language—subtle patterns that clinical records often miss. By analyzing your daily logs and voice inputs, it identifies potential metabolic, psycho-emotional, and cardiovascular risks.
 
 ![App Dashboard](public/screenshot.png)
